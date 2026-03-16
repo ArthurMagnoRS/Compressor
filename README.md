@@ -46,7 +46,7 @@ python compressor.py extrair meu_relatorio.pdf.zst
 # Extraindo uma pasta
 python compressor.py extrair minhas_fotos.tar.zst
 
-🚀 Próximas Atualizações (Roadmap)
+## 🚀 Próximas Atualizações (Roadmap)
 Este projeto está em constante evolução! Algumas das melhorias planejadas incluem:
 
 [ ] Adicionar níveis de compressão personalizáveis (rápido vs. máximo) via terminal.
