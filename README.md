@@ -29,7 +29,7 @@ Um compressor e descompressor de arquivos e diretórios de alta performance, con
 3. Como Usar
 Abra o seu terminal e utilize os comandos abaixo. O script possui um menu de ajuda embutido que pode ser acessado com python compressor.py -h.
 
---Para Comprimir
+
 Você pode passar um arquivo único ou uma pasta inteira:
 
 # Comprimindo um arquivo
@@ -39,7 +39,7 @@ python compressor.py comprimir meu_relatorio.pdf
 # Comprimindo uma pasta
 python compressor.py comprimir minhas_fotos/
 # Saída: minhas_fotos.tar.zst
---Para Extrair
+
 # Extraindo um arquivo
 python compressor.py extrair meu_relatorio.pdf.zst
 
