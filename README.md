@@ -21,8 +21,8 @@ Um compressor e descompressor de arquivos e diretórios de alta performance, con
 
 1. Clone este repositório para a sua máquina:
    ```bash
-   git clone [https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git](https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git)
-   cd NOME_DO_REPOSITORIO
+   git clone [https://github.com/ArthurMagnoRS/Compressor.git](https://github.com/ArthurMagnoRS/Compressor.git)
+   cd Compressor
 2. Instale as dependências necessárias:
    ```bash
    pip install zstandard tqdm
